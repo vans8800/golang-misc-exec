@@ -9,7 +9,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "e:\\GOGOGO\\golang-misc-exec\\go_routinue\\WriteLock-usage.go"  // **Use FULL ABSOLUTE PATH here!**
+            "program": "e:\\GOGOGO\\golang-misc-exec\\go_routinue\\channel-usage.go"  // **Use FULL ABSOLUTE PATH here!**
             // OR, if you are debugging a `.go` file directly (not a pre-built executable):
             // "program": "e:\\GOGOGO\\golang-misc-exec\\main.go" // If main.go is your main file
         }
