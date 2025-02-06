@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Program",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "e:\\GOGOGO\\golang-misc-exec\\go_routinue\\WriteLock-usage.go"  // **Use FULL ABSOLUTE PATH here!**
+            // OR, if you are debugging a `.go` file directly (not a pre-built executable):
+            // "program": "e:\\GOGOGO\\golang-misc-exec\\main.go" // If main.go is your main file
+        }
+    ]
+}
